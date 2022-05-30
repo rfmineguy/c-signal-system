@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/rileyfischer/Documents/dev/c/c_signal_system/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/c_signal_system_exec.dir/src/main.c.o -c /Users/rileyfischer/Documents/dev/c/c_signal_system/src/main.c",
+  "file": "/Users/rileyfischer/Documents/dev/c/c_signal_system/src/main.c"
+},
+{
+  "directory": "/Users/rileyfischer/Documents/dev/c/c_signal_system/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/c_signal_system_exec.dir/src/signal.c.o -c /Users/rileyfischer/Documents/dev/c/c_signal_system/src/signal.c",
+  "file": "/Users/rileyfischer/Documents/dev/c/c_signal_system/src/signal.c"
+},
+{
+  "directory": "/Users/rileyfischer/Documents/dev/c/c_signal_system/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/c_signal_system.dir/src/main.c.o -c /Users/rileyfischer/Documents/dev/c/c_signal_system/src/main.c",
+  "file": "/Users/rileyfischer/Documents/dev/c/c_signal_system/src/main.c"
+},
+{
+  "directory": "/Users/rileyfischer/Documents/dev/c/c_signal_system/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/c_signal_system.dir/src/signal.c.o -c /Users/rileyfischer/Documents/dev/c/c_signal_system/src/signal.c",
+  "file": "/Users/rileyfischer/Documents/dev/c/c_signal_system/src/signal.c"
+}
+]

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libc_signal_system.a CMakeFiles/c_signal_system.dir/src/main.c.o CMakeFiles/c_signal_system.dir/src/signal.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libc_signal_system.a
